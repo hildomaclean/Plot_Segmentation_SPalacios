@@ -1,0 +1,20 @@
+name: cipseg
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - opencv
+  - numpy
+  - jupyter
+  - matplotlib
+  - gdal
+  - scikit-image
+  - rasterio
+  - pandas
+  - pytest
+  - git
+  - git-lfs
+  - requests
+  - packaging
+  - pip
+ 
